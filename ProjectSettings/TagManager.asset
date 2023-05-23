@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Explosion
+  - Boss
+  - BossHitBox
+  - BossSkill
+  - PotionItem
+  - Ground
+  - EnemyHitBox
+  - Arrow
+  - ReinforceNPC
+  - ShopNPC
+  - Enemy
+  - Ground2
+  - PlayerHitBox
+  - TutorialInCityGoPortal
+  - CityInFirstFieldGoPortal
+  - Equipment
+  - Jwerl
+  - FirstFieldInCityGoPortal
+  - FirstFieldInSecondFieldGoPortal
+  - SecondFieldInFirstFieldGoPortal
+  - SecondFieldInBoosFieldGoPortal
+  - BossFieldInSecondFieldGoPortal
+  - BoxCollision
+  - LightAttack
+  - BossFieldInCityPortal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - HPPotion
+  - MPPotion
+  - Enemy
+  - Jwerl
+  - Equipment
+  - Ground2
+  - Explosion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
